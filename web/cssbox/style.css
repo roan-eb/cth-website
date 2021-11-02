@@ -1,0 +1,10 @@
+body{
+    background-image: url(img/100x100.gif);
+    color: midnightblue;
+}
+div{
+    background-color: chartreuse;
+    color: rgb(0, 0, 0);
+    height: 400px;
+    width: 400px;
+}
