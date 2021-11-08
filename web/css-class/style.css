@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(32, 139, 143);
+    color: rgb(145, 163, 145);
+}
+
+H1{
+    color:rgb(20, 46, 133);
+}
+
+.cheat{
+    background-color: rgb(91, 44, 167);
+    color: rgb(47, 196, 255);
+    border: 5px solid rgb(0, 0, 0);
+    padding: 10px;
+}
